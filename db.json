@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "3d84",
+      "email": "U@U.com",
+      "password": "U"
+    },
+    {
+      "id": "c44e",
+      "username": "p",
+      "email": "mfumui395@gmail.com",
+      "password": "qazwsxedc",
+      "confirmPassword": "qazwsxedc",
+      "firstName": "Ish",
+      "lastName": "MfU",
+      "phoneNumber": "5555555555",
+      "dateOfBirth": "2018-06-28",
+      "address": "55 Prince Street",
+      "city": "Capetown ",
+      "state": "",
+      "zipCode": "",
+      "country": "",
+      "gender": "male",
+      "bio": "Hello my name is Ish. My focus is Full Stack Engineering ",
+      "interests": [],
+      "agreeTerms": true,
+      "subscribeNewsletter": false
+    }
+  ]
+}
